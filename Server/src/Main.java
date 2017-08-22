@@ -18,16 +18,9 @@ public class Main {
                 float dx=0;
                 float dy=0;
                 while(true) {
-                    if(isX){
                         dx=in.readFloat();
-                    } else {
                         dy=in.readFloat();
-                    }
-                    if(!isX) {
-                        robot.mouseMove(round(dx),round(dy));
                         System.out.println("moved "+dx+" "+dy);
-                    }
-                    isX=!isX;
                 }
             }
         } catch (IOException e) {
