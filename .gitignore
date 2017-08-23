@@ -11,5 +11,5 @@
 .settings/
 Debug/
 AndroidClient/*
-!*/AndroidClient/app/
+!*/AndroidClient/app/*
 
