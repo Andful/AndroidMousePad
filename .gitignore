@@ -1,7 +1,6 @@
 *.iml
 .gradle
 /local.properties
-/.idea/
 .idea/
 .DS_Store
 /build
@@ -11,3 +10,5 @@
 .project
 .settings/
 Debug/
+AndroidClient/
+!AndroidClient/app/src
