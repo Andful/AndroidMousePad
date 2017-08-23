@@ -11,5 +11,5 @@
 .settings/
 Debug/
 AndroidClient/*
-!AndroidClient/build.gradle
+!AndroidClient/app/
 
