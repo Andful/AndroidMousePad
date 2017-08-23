@@ -10,5 +10,5 @@
 .project
 .settings/
 Debug/
-AndroidClient/
 !AndroidClient/app/src/
+AndroidClient/
