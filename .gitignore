@@ -12,4 +12,6 @@
 Debug/
 AndroidClient/*
 !AndroidClient/app/
+AndroidClient/app/*
+!AndroidClient/app/src/
 
